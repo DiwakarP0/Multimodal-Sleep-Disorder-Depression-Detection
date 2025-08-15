@@ -62,7 +62,7 @@ Unseen-Predictions-with-Uncertainty.csv      # Face model predictions with uncer
 text_probabilities.xlsx                      # Text model probabilities for fusion
 prediction.py                               # Script for transcript-based prediction
 audio_to_transcript.py                      # Whisper-based automatic audio transcription
-Text.pdf, CGS616-A3-Report-1.pdf            # Project and text modality documentation
+Text.pdf, Project Report.pdf            # Project and text modality documentation
 ```
 ## Installation & Setup
 
@@ -159,5 +159,5 @@ pip install ffmpeg-python
 ## References
 
 For full documentation, see:
-- `CGS616-A3-Report-1.pdf` – Main project report (methodology, results, applications)
+- `Project Report.pdf` – Main project report (methodology, results, applications)
 - `Text.pdf` – Text modality analysis summary
